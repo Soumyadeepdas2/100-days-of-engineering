@@ -14,9 +14,25 @@ A 100-day journey to become a better software engineer.
 ## Progress
 
 - ✅ Day 1 – Created my GitHub Profile README
-- ✅ Day 2 – ## 🚀 Open Source
+- ✅Day 2 - My First Open Source Contribution
 
-- ✅ Successfully made my first Open Source contribution.
-- ✅ First Pull Request merged on the `first-contributions` repository.
-- 🌱 Currently learning Git, GitHub, MERN Stack, and Data Structures & Algorithms.
-- 
+## Learned
+- Fork
+- Clone
+- Branch
+- git add
+- git commit
+- git push
+- Pull Request
+
+## Achievement
+✅ My first Pull Request was merged into the official `first-contributions` repository.
+
+## Commands I Used
+
+git clone
+git checkout -b
+git status
+git add
+git commit
+git push
